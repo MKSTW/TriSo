@@ -9,6 +9,7 @@
 }
 /*Contents Nav*/
 .nbar {
+    width: 100%;
     position: fixed;
     z-index: 100;
     left: 0;
