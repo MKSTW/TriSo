@@ -102,6 +102,7 @@
 @media screen and (max-width:435px) {
     .body    {
         overflow-x: hidden;
+        width: 100%;
     }
     .homepage-1 {
         padding-top: 200px;
