@@ -100,6 +100,9 @@
 }
 /*Responsive*/
 @media screen and (max-width:435px) {
+    .body    {
+        overflow-x: hidden;
+    }
     .homepage-1 {
         padding-top: 200px;
         height: 1000px;
